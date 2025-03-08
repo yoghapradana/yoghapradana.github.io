@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title: Yogha's Homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site settings
+title: "Yogha's Portfolio"
+description: "Embedded System Engineer | AI Enthusiast"
+url: "https://yoghapradana.github.io" # Replace with your GitHub Pages URL
+
+# Jekyll settings
+theme: minima # Default Jekyll theme (simple and clean)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom variables
+socials:
+  github: yoghapradana
+  linkedin: andreyrjt
+  twitter: @an_zul
+  email: andreyrjt@outlook.co.id
