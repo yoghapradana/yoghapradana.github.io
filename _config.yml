@@ -1,17 +1,11 @@
-# Site settings
-title: "Yogha's Portfolio"
-description: "Embedded System Engineer | AI Enthusiast"
-url: "https://yoghapradana.github.io" # Replace with your GitHub Pages URL
+title: "Yogha Andrey Pradana | Embedded Systems & AI"
+description: "Building intelligent systems at the hardware-software frontier."
+url: "https://yoghapradana.github.io"
 
-# Jekyll settings
-theme: minima # Default Jekyll theme (simple and clean)
+theme: jekyll-theme-cayman # Clean, technical theme
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Custom variables
-socials:
-  github: yoghapradana
-  linkedin: andreyrjt
-  twitter: @an_zul
-  email: andreyrjt@outlook.co.id
+mcu_expertise: ["AVR", "ARM Cortex-M", "ESP32"]
+ai_tools: ["TensorFlow Lite", "PyTorch", "OpenCV"]
