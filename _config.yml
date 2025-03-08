@@ -1,11 +1,7 @@
-title: "Yogha Andrey Pradana | Embedded Systems & AI"
-description: "Building intelligent systems at the hardware-software frontier."
-url: "https://yoghapradana.github.io"
-
-theme: jekyll-theme-cayman # Clean, technical theme
-plugins:
-  - jekyll-feed
-
-# Custom variables
-mcu_expertise: ["AVR", "ARM Cortex-M", "ESP32"]
-ai_tools: ["TensorFlow Lite", "PyTorch", "OpenCV"]
+title: "Yogha Pradana | Embedded Systems & AI"  
+description: "Building intelligent systems at the hardware-software frontier."  
+url: "https://yoghapradana.github.io"  
+theme: jekyll-theme-cayman  # Ensure the theme is spelled correctly  
+plugins:  
+  - jekyll-feed  
+  - jekyll-seo-tag  
