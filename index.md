@@ -24,11 +24,6 @@ I specialize in bridging the gap between low-level firmware (C/AVR/ARM) and AI/M
 - **Tech**: ARM CMSIS-NN, C, YOLOv-Tiny  
 - [Demo Video](https://youtube.com/yourlink)
 
----
-
-## 📝 **Blog Posts**
-- [Optimizing C Code for ARM Cortex-M](https://yourblog.com/post1)  
-- [TensorFlow Lite on ESP32: A Step-by-Step Guide](https://yourblog.com/post2)
 
 ---
 
